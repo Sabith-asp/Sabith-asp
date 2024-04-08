@@ -19,15 +19,15 @@ I'm an aspiring web developer passionate about creating engaging and user-friend
 
 Here are some projects I've worked on:
 
-1. [Project 1](link-to-project) - Short description of the project.
-2. [Project 2](link-to-project) - Short description of the project.
-3. [Project 3](link-to-project) - Short description of the project.
+1. [College Website](link-to-college-website) - A website built using Next.js, Django, and PostgreSQL.
+2. [Facebook Signup Page Clone](link-to-facebook-clone) - A clone of the Facebook signup page.
+3. [Portfolio Website](link-to-portfolio) - My personal portfolio website.
 
 ## Connect with Me
 
-- LinkedIn: [Abdulla Sabith](https://www.linkedin.com/in/abdulla-sabith)
-- Twitter: [@abdullasabith](https://twitter.com/abdullasabith)
-- GitHub: [YourGitHubUsername](https://github.com/YourGitHubUsername)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/your-instagram)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/YourGitHubUsername)
 
 Feel free to reach out if you want to collaborate on any projects or just want to chat about web development!
 

@@ -19,15 +19,15 @@ I'm an aspiring web developer passionate about creating engaging and user-friend
 
 Here are some projects I've worked on:
 
-1. [College Website](link-to-college-website) - A website built using Next.js, Django, and PostgreSQL.
-2. [Facebook Signup Page Clone](link-to-facebook-clone) - A clone of the Facebook signup page.
-3. [Portfolio Website](link-to-portfolio) - My personal portfolio website.
+1. [College Website](https://sscollegewebsite-git-dev-muhammed-saheens-projects.vercel.app/) - A website built using Next.js, Django, and PostgreSQL.
+2. [Facebook Signup Page Clone](https://sabith-asp.github.io/facebook-singup-clone/) - A clone of the Facebook signup page.
+3. [Portfolio Website](https://sabith-asp.github.io/sabith-portfolio/) - My personal portfolio website.
 
 ## Connect with Me
 
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/your-instagram)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/YourGitHubUsername)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/sabith_asp?igsh=cGZmeWRoM2kydHA4)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/abdulla-sabith-b457a2224)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Sabith-asp)
 
 Feel free to reach out if you want to collaborate on any projects or just want to chat about web development!
 

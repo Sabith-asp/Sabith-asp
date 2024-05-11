@@ -11,7 +11,7 @@ I'm an aspiring web developer passionate about creating engaging and user-friend
   - ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
   - ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
 - 🌱 Currently learning more about advanced React techniques and Django REST framework.
-- 📫 How to reach me: [abdullasabithpulli@gmail.com](mailto:abdullasabithpulli@gmail.com)
+- 📫 How to reach me: [abdulla.sabithp@gmail.com](mailto:abdulla.sabithp@gmail.com)
 - 😄 Pronouns: He/Him
 
 ## Projects

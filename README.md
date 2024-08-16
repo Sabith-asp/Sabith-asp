@@ -12,7 +12,6 @@ I'm an aspiring web developer passionate about creating engaging and user-friend
    ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
 - 🌱 Currently learning more about advanced React techniques and Django REST framework.
 - 📫 How to reach me: [abdulla.sabithp@gmail.com](mailto:abdulla.sabithp@gmail.com)
-- 😄 Pronouns: He/Him
 
 ## Projects
 

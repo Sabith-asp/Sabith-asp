@@ -18,7 +18,7 @@ I'm an aspiring web developer passionate about creating engaging and user-friend
 
 Here are some projects I've worked on:
 1. [Website for Sofa company](https://bmsofa.vercel.app/) - A website built using ReactJS, Django.
-2. [College Website](sscollege.ac.in) - A website built using Next.js, Django, and PostgreSQL.
+2. [College Website]((https://sscollege.ac.in/)) - A website built using Next.js, Django, and PostgreSQL.
 3. [Facebook Signup Page Clone](https://sabith-asp.github.io/facebook-singup-clone/) - A clone of the Facebook signup page.
 4. [Portfolio Website](https://sabith-asp.github.io/sabith-portfolio/) - My personal portfolio website.
 

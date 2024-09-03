@@ -23,16 +23,34 @@ I'm skilled in frontend development and learning to become full stack. Welcome t
    ![DaisyUI](https://img.shields.io/badge/-DaisyUI-FF69B4?style=flat&logo=daisyui&logoColor=white)
    ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white)
 
-- 🌱 Currently learning more about the MERN stack.
+- 🌱 Currently learning more about the MERN stack:
+   ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+   ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
+   ![Mongoose](https://img.shields.io/badge/-Mongoose-880000?style=flat&logo=mongoose&logoColor=white)
+
 - 📫 How to reach me: [abdulla.sabithp@gmail.com](mailto:abdulla.sabithp@gmail.com)
 
 ## Projects
 
 Here are some projects I've worked on:
-1. [Website for Sofa company](https://bmsofa.vercel.app/) - A website built using ReactJS, Django.
-2. [College Website](https://sscollege.ac.in/) - A website built using Next.js, Django, and PostgreSQL.
-3. [Facebook Signup Page Clone](https://sabith-asp.github.io/facebook-singup-clone/) - A clone of the Facebook signup page.
-4. [Portfolio Website](https://sabith-asp.github.io/sabith-portfolio/) - My personal portfolio website.
+
+
+
+1. [College Website](https://sscollege.ac.in/)
+   ![College Website](https://github.com/Sabith-asp/Project-images/blob/main/assets/Screenshot%202024-09-03%20191307.png?raw=true) 
+   A website built using Next.js, Django, and PostgreSQL.
+
+2. [Website for Sofa company](https://bmsofa.vercel.app/)
+   ![Sofa Company](https://github.com/Sabith-asp/Project-images/blob/main/assets/Screenshot%202024-09-03%20191231.png?raw=true) 
+   A website built using ReactJS, Django.
+
+3. [Facebook Signup Page Clone](https://sabith-asp.github.io/facebook-singup-clone/)
+   ![Facebook Signup Page Clone](https://github.com/Sabith-asp/Project-images/blob/main/assets/Screenshot%202024-09-03%20191340.png?raw=true) 
+   A clone of the Facebook signup page.
+
+4. [Portfolio Website](https://sabith-asp.github.io/sabith-portfolio/)
+   ![Portfolio Website](https://github.com/Sabith-asp/Project-images/blob/main/assets/Screenshot%202024-09-03%20191355.png?raw=true) 
+   My personal portfolio website.
 
 ## Connect with Me
 

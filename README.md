@@ -1,6 +1,6 @@
 # Hi there, I'm Abdulla Sabith! 👋
 
-I'm an aspiring web developer passionate about creating engaging and user-friendly web experiences. Welcome to my GitHub profile!
+I'm skilled in frontend development and learning to become full stack. Welcome to my GitHub profile!
 
 ## About Me
 
@@ -23,7 +23,7 @@ I'm an aspiring web developer passionate about creating engaging and user-friend
    ![DaisyUI](https://img.shields.io/badge/-DaisyUI-FF69B4?style=flat&logo=daisyui&logoColor=white)
    ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white)
 
-- 🌱 Currently learning more about advanced React techniques and Django REST framework.
+- 🌱 Currently learning more about the MERN stack.
 - 📫 How to reach me: [abdulla.sabithp@gmail.com](mailto:abdulla.sabithp@gmail.com)
 
 ## Projects
@@ -41,4 +41,5 @@ Here are some projects I've worked on:
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/sabith_asp?igsh=cGZmeWRoM2kydHA4)
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/+919567141190)
 
-Feel free to reach out if you want to collaborate on any projects or just want to chat about web development!
+[![](https://visitcount.itsvg.in/api?id=sa&icon=0&color=0)](https://visitcount.itsvg.in)
+

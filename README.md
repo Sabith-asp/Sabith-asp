@@ -1,32 +1,16 @@
-# Hi there, I'm Abdulla Sabith! 👋
+# 💫 About Me:
+I'm a web developer skilled in React, HTML, CSS, JavaScript, Django, and Bootstrap. I'm currently learning the MERN stack to enhance my skills in full-stack development.<br><br>
 
-I'm an aspiring web developer passionate about creating engaging and user-friendly web experiences. Welcome to my GitHub profile!
 
-## About Me
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sabith_asp) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Abdulla Sabith) 
 
-- 💻 I'm proficient in:
-   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-   ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-   ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
-- 🌱 Currently learning more about advanced React techniques and Django REST framework.
-- 📫 How to reach me: [abdulla.sabithp@gmail.com](mailto:abdulla.sabithp@gmail.com)
+# 💻 Tech Stack:
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=sa&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=sa&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sa&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-## Projects
-
-Here are some projects I've worked on:
-1. [Website for Sofa company](https://bmsofa.vercel.app/) - A website built using ReactJS, Django.
-2. [College Website](https://sscollege.ac.in/) - A website built using Next.js, Django, and PostgreSQL.
-3. [Facebook Signup Page Clone](https://sabith-asp.github.io/facebook-singup-clone/) - A clone of the Facebook signup page.
-4. [Portfolio Website](https://sabith-asp.github.io/sabith-portfolio/) - My personal portfolio website.
-
-## Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/abdulla-sabith-b457a2224)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Sabith-asp)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/sabith_asp?igsh=cGZmeWRoM2kydHA4)
-[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/+919567141190)
-
-Feel free to reach out if you want to collaborate on any projects or just want to chat about web development!
-
+---
+[![](https://visitcount.itsvg.in/api?id=sa&icon=0&color=0)](https://visitcount.itsvg.in)

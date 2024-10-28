@@ -24,6 +24,7 @@ I'm skilled in frontend development and learning to become full stack. Welcome t
    ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white)
 
 - 🌱 Currently learning more about the MERN stack:
+   ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
    ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
    ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
    ![Mongoose](https://img.shields.io/badge/-Mongoose-880000?style=flat&logo=mongoose&logoColor=white)

@@ -25,12 +25,12 @@ I'm skilled in frontend development and learning to become full stack. Welcome t
    ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
    ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
    ![Mongoose](https://img.shields.io/badge/-Mongoose-880000?style=flat&logo=mongoose&logoColor=white)
-- Leetcode
-  [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/abdulla-sabith/)
 
 
 - 📫 How to reach me: [abdulla.sabithp@gmail.com](mailto:abdulla.sabithp@gmail.com)
 
+- Leetcode
+- [![LeetCode Stats](https://leetcard.jacoblin.cool/abdulla-sabith)](https://leetcode.com/abdulla-sabith/)
 ## Projects
 
 Here are some projects I've worked on:
@@ -65,4 +65,3 @@ Here are some projects I've worked on:
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/+919567141190)
 
 [![](https://visitcount.itsvg.in/api?id=sa&icon=0&color=0)](https://visitcount.itsvg.in)
-

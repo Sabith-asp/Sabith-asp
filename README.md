@@ -16,29 +16,17 @@ I'm skilled in frontend development and learning to become full stack. Welcome t
 - [![LeetCode Stats](https://leetcard.jacoblin.cool/abdulla-sabith)](https://leetcode.com/abdulla-sabith/)
 ## Projects
 
-Here are some projects I've worked on:
+Here are some latest projects I've worked on:
+
+1. [Shoezy Ecommerce]()
+   ![Shoezy Ecommerce](https://github.com/Sabith-asp/Project-images/blob/main/assets/Screenshot%202025-03-04%20221932.png?raw=true) 
+   A Shoe Ecommerce application developed using React, .NET core, Sql Server, Entity framework
 
 
-
-1. [Ecommerce Frontend](https://ecom-dusky-nine.vercel.app/)
+2. [Ecommerce Frontend](https://ecom-dusky-nine.vercel.app/)
    ![Ecommerce Frontend](https://github.com/Sabith-asp/Ecom/blob/master/public/Screenshot%202024-09-10%20145912.png?raw=true) 
    A Fully responsive ecommerce frontend using ReactJS, bootstrap, contextAPI
    
-2. [College Website](https://sscollege.ac.in/)
-   ![College Website](https://github.com/Sabith-asp/Project-images/blob/main/assets/Screenshot%202024-09-03%20191307.png?raw=true) 
-   A website built using Next.js, Django, and PostgreSQL.
-
-3. [Website for Sofa company](https://bmsofa.vercel.app/)
-   ![Sofa Company](https://github.com/Sabith-asp/Project-images/blob/main/assets/Screenshot%202024-09-03%20191231.png?raw=true) 
-   A website built using ReactJS, Django.
-
-4. [Facebook Signup Page Clone](https://sabith-asp.github.io/facebook-singup-clone/)
-   ![Facebook Signup Page Clone](https://github.com/Sabith-asp/Project-images/blob/main/assets/Screenshot%202024-09-03%20191340.png?raw=true) 
-   A clone of the Facebook signup page.
-
-5. [Portfolio Website](https://sabith-asp.github.io/sabith-portfolio/)
-   ![Portfolio Website](https://github.com/Sabith-asp/Project-images/blob/main/assets/Screenshot%202024-09-03%20191355.png?raw=true) 
-   My personal portfolio website.
 
 ## Connect with Me
 

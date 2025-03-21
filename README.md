@@ -1,6 +1,6 @@
 # Hi there, I'm Abdulla Sabith! 👋
 
-I'm skilled in frontend development and learning to become full stack. Welcome to my GitHub profile!
+I'm skilled in Fullstack development. Welcome to my GitHub profile!
 
 ## About Me
 

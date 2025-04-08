@@ -18,7 +18,7 @@ I'm skilled in Fullstack development. Welcome to my GitHub profile!
 
 Here are some latest projects I've worked on:
 
-1. [Shoezy Ecommerce](https://github.com/Sabith-asp/Shoezy-Ecommerce-DotNet-Backend)
+1. [Shoezy Ecommerce](https://shoezy-e-ecommerce-dot-net-frontend.vercel.app/)
    ![Shoezy Ecommerce](https://github.com/Sabith-asp/Project-images/blob/main/assets/Screenshot%202025-03-04%20221932.png?raw=true) 
    A Shoe Ecommerce application developed using React, .NET core, Sql Server, Entity framework
 

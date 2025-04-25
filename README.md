@@ -5,11 +5,11 @@ Welcome to my GitHub! I'm a passionate **Full Stack Developer** who loves turnin
 ## 💡 About Me
 
 - 👨‍💻 I specialize in both **Frontend** and **Backend** development using the latest tech stacks.
-- 🚀 I'm currently focused on building **modern web applications** using **React**, **.NET Core**, and **SQL Server**.
+- 🚀 I'm currently focused on building **modern web applications** using  **.NET Core** and **React**.
 - 🔁 I’m a strong believer in **Clean Code**, **Agile practices**, and continuous learning.
 - 🌐 I enjoy solving real-world problems — from **e-commerce platforms** to **service-based portals**.
 - 🧠 Constantly learning new technologies, especially in the **.NET ecosystem** and **React ecosystem**.
-- 🤝 I love collaborating with teams and contributing to open-source or community-driven projects.
+- 🤝 I love collaborating with teams .
 
 
 - 💻 I'm proficient in:  

@@ -25,7 +25,7 @@ Welcome to my GitHub! I'm a passionate **Full Stack Developer** who loves turnin
 
 Here are some latest projects I've worked on:
 
-1. [MobileMend](https://shoezy-e-ecommerce-dot-net-frontend.vercel.app/)  
+1. [MobileMend](https://mobile-mend-ui.vercel.app/)  
    <p float="left">
      <img src="https://github.com/Sabith-asp/Project-images/blob/main/assets/Screenshot%202025-05-10%20141120.png?raw=true" width="45%" />
      <img src="https://github.com/Sabith-asp/Project-images/blob/main/assets/Screenshot%202025-05-10%20134400.png?raw=true" width="45%" />

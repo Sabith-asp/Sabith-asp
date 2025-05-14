@@ -50,7 +50,6 @@ Here are some latest projects I've worked on:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/abdulla-sabith-b457a2224)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Sabith-asp)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/sabith_asp?igsh=cGZmeWRoM2kydHA4)
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/+919567141190)
 
 [![](https://visitcount.itsvg.in/api?id=sa&icon=0&color=0)](https://visitcount.itsvg.in)

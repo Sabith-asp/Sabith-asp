@@ -38,8 +38,20 @@ Here are some latest projects I've worked on:
 
    
 2. [Shoezy Ecommerce](https://shoezy-e-ecommerce-dot-net-frontend.vercel.app/)
-   ![Shoezy Ecommerce](https://github.com/Sabith-asp/Project-images/blob/main/assets/Screenshot%202025-03-04%20221932.png?raw=true) 
+   <p float="left">
+     <img src="https://github.com/Sabith-asp/Project-images/blob/main/assets/Screenshot%202025-03-19%20222430.png?raw=true" width="45%" />
+     <img src="https://github.com/Sabith-asp/Project-images/blob/main/assets/Screenshot%202025-03-19%20225413.png?raw=true" width="45%" />
+   </p>
+   
+   <p float="left">
+    <img src="https://github.com/Sabith-asp/Project-images/blob/main/assets/Screenshot%202025-03-19%20225858.png?raw=true" width="20%" />
+     <img src="https://github.com/Sabith-asp/Project-images/blob/main/assets/Screenshot%202025-03-19%20233049.png?raw=true" width="20%" />
+      
+     <img src="https://github.com/Sabith-asp/Project-images/blob/main/assets/Screenshot%202025-03-04%20221932.png?raw=true" width="45%" /> 
+   </p>
    A Shoe Ecommerce application developed using React, .NET core, Sql Server, Entity framework
+
+   
 
 4. [Ecommerce Frontend](https://ecom-dusky-nine.vercel.app/)
    ![Ecommerce Frontend](https://github.com/Sabith-asp/Ecom/blob/master/public/Screenshot%202024-09-10%20145912.png?raw=true) 
